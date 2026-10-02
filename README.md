@@ -1,4 +1,4 @@
-<--
+
 <h1 align="center">Hi there, I'm Samudini Nisansala 👋</h1>
 <h3 align="center">HNDIT Undergraduate | Aspiring Software Engineer | Web Developer</h3>
 
@@ -36,4 +36,4 @@
 
 
 
--->
+
