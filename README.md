@@ -1,6 +1,6 @@
 
-<h1 align="left">Hi there, I'm Samudini Nisansala 👋</h1>
-<h3 align="left">HNDIT Undergraduate | Aspiring Software Engineer | Web Developer</h3>
+**<h1 align="center">Hi there, I'm Samudini Nisansala 👋</h1>**
+<h3 align="center">HNDIT Undergraduate | Aspiring Software Engineer | Web Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Samudini-Nisansala&label=Profile%20views&color=0e75b6&style=flat" alt="Samudini-Nisansala" />
@@ -10,9 +10,9 @@
 
 ### 👩‍💻 About Me
 - 🎓 HNDIT Undergraduate at SLIATE
-- 🌱 Currently learning **Java, JavaScript, Web Development**
+- 🌱 Currently learning **Java, JavaScript, CSS, HTML, Web Development,**
 - 👯 Looking to collaborate on Web Projects
-- 💼 Seeking a **Software Engineer Internship**
+- 💼 Looking for **Software Engineer Internship, Web Development Internship**
 - 📫 How to reach me: hansimarasigha2002@gmail.com | www.linkedin.com/in/sanudini-nisansala
 
 ### 🛠️ Languages and Tools
