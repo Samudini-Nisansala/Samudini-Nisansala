@@ -1,6 +1,4 @@
-
-
-<!--
+<--
 <h1 align="center">Hi there, I'm Samudini Nisansala 👋</h1>
 <h3 align="center">HNDIT Undergraduate | Aspiring Software Engineer | Web Developer</h3>
 
@@ -15,7 +13,7 @@
 - 🌱 Currently learning **Java, JavaScript, Web Development**
 - 👯 Looking to collaborate on Web Projects
 - 💼 Seeking a **Software Engineer Internship**
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/sanudini-nisansala) | [Email](hansimarasingha2002@gmail.com)
+- 📫 How to reach me: hansimarasigha2002@gmail.com | www.linkedin.com/in/sanudini-nisansala
 
 ### 🛠️ Languages and Tools
 <p>
@@ -34,5 +32,8 @@
   <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+
+
+
 
 -->
