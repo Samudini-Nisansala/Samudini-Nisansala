@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi there, I'm Samudini Nisansala 👋</h1>
-<h3 align="center">HNDIT Undergraduate | Aspiring Software Engineer | Web Developer</h3>
+<h1 align="left">Hi there, I'm Samudini Nisansala 👋</h1>
+<h3 align="left">HNDIT Undergraduate | Aspiring Software Engineer | Web Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Samudini-Nisansala&label=Profile%20views&color=0e75b6&style=flat" alt="Samudini-Nisansala" />
